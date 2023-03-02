@@ -30,7 +30,7 @@ I am still deciding on the method on distributing this project, but will likely 
 ## BOM
 Coming soon
 
-## Contributions & Thanks
+## Contributions, Credits, Thanks
 * **The Game Boy Camera Club & Game Boy modding community** - for ideas, support, patience, help, & contribution to the scene
 * **My family** - for their patience & support
 * **bit9** - for schematics

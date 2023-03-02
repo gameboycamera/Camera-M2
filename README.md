@@ -17,7 +17,7 @@ I am still deciding on the method on distributing this project, but will likely 
 ## Features
 * **All new circuit board**
   * Instead of relying on cutting discontinued circuit boards, the M2 features an all new PCB to transfer your CPU and RAM
-  * This not only saves a Game Boy from being destroyed, but the design has a lower limitation on design & shape
+  * This not only saves a Game Boy from being destroyed, but lowers limitation on design
 * **Smaller, more compact design**
   * Height design limitation is no longer limited to a pre-existing PCB size, allowing for more freedom in shape and size
 * **All new buttons**

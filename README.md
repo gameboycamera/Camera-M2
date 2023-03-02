@@ -33,11 +33,13 @@ Coming soon
 ## Contributions & Thanks
 * **The Game Boy Camera Club & Game Boy modding community** - for ideas, support, patience, help, & contribution to the scene
 * **My family** - for their patience & support
+* **bit9** - for schematics
+* **Herr_Zatacke** - for unending contribution to the Game Boy Camera community with essential tools, ideas, patience, and support
+* **HDR** - for the Game Boy Camera flash cart, contribution to the Game Boy community
+* **Toxa** - for Photo!, the custom Game Boy Camera ROM 
+* **Gekkio** - CPU details
 * **Cody Wick** - for support, encouragement & ideas
 * **AllyShreds** - for support, encouragement
-* **Herr_Zatacke** - for unending contribution to the Game Boy Camera community with essential tools, ideas, patience, and support
-* **HDR** - for the Game Boy Camera flash cart
-* **Toxa** - for Photo!, the custom Game Boy Camera ROM 
 * **NatalieTheNerd** - for support, encouragement, assistance with PCB & component choice
 * **Bucket Mouse** - for support and assistance with PCB
 * **2bitboy** - for inspiration with the 2bittoy camera+

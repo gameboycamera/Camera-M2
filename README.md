@@ -12,7 +12,8 @@ This new, improved version will not only address the issues above, but introduce
 I am still deciding on the method on distributing this project, but will likely be both a DIY option as well as limited commission builds.
 
 ## Updates
-**3/1/21** - v0.1 prototype board confirmed to work. Still finalizing shell design, controller board.
+* *3/25/23* - Working on v1.0 board: will have a main motherboard, controller board, and a shutter board. Creating in tandem with the shell, so things should fit perfectly.
+* *3/1/23** - v0.1 prototype board confirmed to work. Still finalizing shell design, controller board.
 
 ## Features
 * **All new circuit board**

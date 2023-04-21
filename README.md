@@ -12,8 +12,9 @@ This new, improved version will not only address the issues above, but introduce
 I am still deciding on the method on distributing this project, but will likely be both a DIY option as well as limited commission builds.
 
 ## Updates
-* **3/25/23** - Working on v1.0 board: will have a main motherboard, controller board, and a shutter board. Creating in tandem with the shell, so things should fit perfectly.
-* **3/1/23** - v0.1 prototype board confirmed to work. Still finalizing shell design, controller board.
+* **04/21/23** - v1 board complete (lipo only version), v1 shell complete. Went through about 5 shell iterations before I landed on one I liked. Waiting on shipment of components, boards, and shell to arrive. TO DO: finish BOM, order new cam cart PCB
+* **03/25/23** - Working on v1.0 board: will have a main motherboard, controller board, and a shutter board. Creating in tandem with the shell, so things should fit perfectly.
+* **03/1/23** - v0.1 prototype board confirmed to work. Still finalizing shell design, controller board.
 
 ## Features
 * **All new circuit board**
@@ -31,17 +32,20 @@ I am still deciding on the method on distributing this project, but will likely 
 ## BOM
 Coming soon
 
+## Optional items
+Coming soon
+
 ## Contributions, Credits, Thanks
-* **The Game Boy Camera Club & Game Boy modding community** - for ideas, support, patience, help, & contribution to the scene
+* **The [Game Boy Camera Club](https://discord.gg/C7WFJHG) & Game Boy modding community** - for ideas, support, patience, help, & contribution to the scene
 * **My family** - for their patience & support
-* **bit9** - for schematics
-* **Herr_Zatacke** - for unending contribution to the Game Boy Camera community with essential tools, ideas, patience, and support
-* **HDR** - for the Game Boy Camera flash cart, contribution to the Game Boy community
-* **Toxa** - for Photo!, the custom Game Boy Camera ROM 
-* **Gekkio** - CPU details
+* **[bit9](https://chipmusic.org/forums/post/215957/#p215957)** - for schematics
+* **[HerrZatacke](https://github.com/HerrZatacke)** - for unending contribution to the Game Boy Camera community with essential tools, ideas, patience, and support
+* **[HDR](https://github.com/HDR)** - for the Game Boy Camera flash cart, contribution to the Game Boy community
+* **[Toxa](https://github.com/untoxa)** - for Photo!, the custom Game Boy Camera ROM 
+* **[Gekkio](https://github.com/Gekkio)** - CPU details
 * **Cody Wick** - for support, encouragement & ideas
 * **AllyShreds** - for support, encouragement
-* **NatalieTheNerd** - for support, encouragement, assistance with PCB & component choice
-* **Bucket Mouse** - for support and assistance with PCB
-* **2bitboy** - for inspiration with the 2bittoy camera+
-* **Zoe Wolfe** - for support, encouragement & ideas
+* **[NatalieTheNerd](https://github.com/nataliethenerd)** - for support, encouragement, assistance with PCB & component choice
+* **[Bucket Mouse](https://mousebitelabs.com/)** - for support and assistance with PCB
+* **[2bitboy](https://2bittoy.carrd.co/)** - for inspiration with the 2bittoy camera+
+* **[Zoe Wolfe](https://zoewolfe.gay/)** - for support, encouragement & ideas

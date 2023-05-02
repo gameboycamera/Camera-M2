@@ -12,6 +12,7 @@ This new, improved version will not only address the issues above, but introduce
 I am still deciding on the method on distributing this project, but will likely be both a DIY option as well as limited commission builds.
 
 ## Updates
+* **05/01/23** - Guess it's official. Shell & PCB arrived, slight fit issues, but overall satisfied with the design. Working on v1.1 which, with a little luck, should be official release.
 * **04/21/23** - v1 board complete (lipo only version), v1 shell complete. Went through about 5 shell iterations before I landed on one I liked. Waiting on shipment of components, boards, and shell to arrive. TO DO: finish BOM, order new cam cart PCB
 * **03/25/23** - Working on v1.0 board: will have a main motherboard, controller board, and a shutter board. Creating in tandem with the shell, so things should fit perfectly.
 * **03/1/23** - v0.1 prototype board confirmed to work. Still finalizing shell design, controller board.
